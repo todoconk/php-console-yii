@@ -3,13 +3,14 @@
     "description": "Yii extension integrates Google Chrome extension PHP Console.",
     "authors": [
         {
-			"name": "Sergey Barbushin",
-			"homepage": "http://linkedin.com/in/barbushin",
-			"email": "barbushin@gmail.com"
-		},
+		"name": "Sergey Barbushin",
+		"homepage": "http://linkedin.com/in/barbushin",
+		"email": "barbushin@gmail.com"
+	},
         {
-            "name": "Krikor Krikorian",
-            "email": "hello@todoconk.com"
+            	"name": "Krikor Krikorian",
+            	"homepage": "http://www.todoconk.com",
+            	"email": "hello@todoconk.com"
         }
     ],
     "require": {}
