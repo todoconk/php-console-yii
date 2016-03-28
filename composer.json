@@ -1,0 +1,15 @@
+{
+    "name": "todoconk/php-console-yii",
+    "description": "Yii extension integrates Google Chrome extension PHP Console.",
+    "authors": [
+        {
+            "name": "Sergey Barbushin",
+            "email": "barbushin@github.com"
+        },
+        {
+            "name": "Krikor Krikorian",
+            "email": "hello@todoconk.com"
+        }
+    ],
+    "require": {}
+}
